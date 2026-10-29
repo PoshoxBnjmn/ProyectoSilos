@@ -1,0 +1,4 @@
+com.duoc.silos.test.app-androidTest-0 C:\Users\Melipilla\AndroidStudioProjects\MonitoreoSilos\app\build\generated\res\resValues\androidTest\debug
+com.duoc.silos.test.app-mergeDebugAndroidTestResources-1 C:\Users\Melipilla\AndroidStudioProjects\MonitoreoSilos\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.duoc.silos.test.app-mergeDebugAndroidTestResources-2 C:\Users\Melipilla\AndroidStudioProjects\MonitoreoSilos\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.duoc.silos.test.app-debugAndroidTest-3 C:\Users\Melipilla\AndroidStudioProjects\MonitoreoSilos\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
